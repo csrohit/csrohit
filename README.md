@@ -6,7 +6,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=csrohit&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="csrohit stats card" /></p>
 <p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=csrohit&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="csrohit stats card" /></p>
-    
+
+![Rohit's blog](https://github-read-medium.vercel.app/latest?username=csrohit&limit=6&theme=nord)
 <p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=csrohit" alt="csrohit" />
